@@ -1,5 +1,6 @@
-pathlib
-pandas
 numpy
+tqdm
+transformers
+datasets
 scikit-learn
-kagglehub
+matplotlib
